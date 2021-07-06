@@ -1,2 +1,2 @@
-# Estudos
- Repositório dedicado aos projetos de estudo
+# Projetos Iniciais
+ Repositório dedicado aos projetos inciais de estudo
